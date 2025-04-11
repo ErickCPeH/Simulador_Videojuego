@@ -51,4 +51,30 @@ Imprime el movimiento que ha hecho el hilo x
 
 Duerme el hilo de 3 a 10 segundos
 
-Cierra ciclo
+cierra ciclo
+
+
+// Cambios 10/04/2025 //
+
+Se realizó el núcleo de concurrencia basado en el pseudocódigo antes listado. 
+
+Durante el desarrollo encontramos que estabamos lidiando con algunas condiciones de carrera y problemas de optimización, por lo que para las siguientes versiones se mejorará en dichos aspectos. 
+
+
+// Desarrollo de la actividad. //
+
+
+FASE 1. 
+
+Desarrollamos la primera instancia del núcleo concurrente. 
+
+FASE 2. 
+
+Realizamos una fase de pruebas donde encontramos los problemas más significativos.
+
+FASE 3. 
+
+A partir de la retroalimentación de nuestros compañeros, pudimos crear una planificación que nos permitirá mejorar nuestro programa. 
+
+
+
